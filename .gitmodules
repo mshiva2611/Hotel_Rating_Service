@@ -1,0 +1,9 @@
+[submodule "Hotel_Rating_Service/RATING_SERVICE"]
+	path = Hotel_Rating_Service/RATING_SERVICE
+	url = https://github.com/mshiva2611/RATING_SERVICE
+[submodule "Hotel_Rating_Service/HOTEL_SERVICE"]
+	path = Hotel_Rating_Service/HOTEL_SERVICE
+	url = https://github.com/mshiva2611/HOTEL_SERVICE
+[submodule "Hotel_Rating_Service/USER_SERVICE"]
+	path = Hotel_Rating_Service/USER_SERVICE
+	url = https://github.com/mshiva2611/USER_SERVICE
